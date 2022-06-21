@@ -9,7 +9,7 @@ class Main {
 //    boolean x = true;
 //   double  d = 2.334;
 //char g = 'Z';
-        int[] arr = {11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 102, 1023};
+        int[] arr = {11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 102, 1023, 2022};
         for (int i = 0; i <= arr.length; i++) {
 //            System.out.println(i);
 //        }
